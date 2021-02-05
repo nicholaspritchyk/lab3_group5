@@ -2,6 +2,6 @@
 Lab3 repository
 
 Xinxin Li
-Nicholas Pritchyk
+Nicholas pritchyk
 Gavin Downie
 
