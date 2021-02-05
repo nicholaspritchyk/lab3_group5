@@ -2,3 +2,4 @@
 Lab3 repository
 
 Nicholas Pritchyk
+Gavin Downie
